@@ -5,7 +5,7 @@
 #define WIFI_SSID "Wokwi-GUEST"
 #define WIFI_PASSWORD ""
 
-#define TOKEN "PEwyBC2y3f5tKjbUHty9"
+#define TOKEN "YOUR_THINGSBOARD_ACCESS_TOKEN"
 #define THINGSBOARD_SERVER "thingsboard.cloud"
 
 #define DHTPIN 15
